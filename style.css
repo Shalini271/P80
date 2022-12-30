@@ -2,12 +2,32 @@
 {
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	color: black;
+	background-color: lightblue;
+	border-radius: 5px;
 }
 #sort_button
 {
 	display: none;
 	margin-top: 20px; 
-	margin-bottom: 20px; 
+	margin-bottom: 20px;
+	color: black;
+	background-color: lightblue; 
+	border-radius: 5px;
+}
+
+#show
+{
+color: black;
+background-color: lightblue;
+border-radius: 5px;
+}
+
+#srch
+{
+	color: black;
+	background-color: lightblue;
+	border-radius: 5px;
 }
 
 input
@@ -30,4 +50,21 @@ input
     background-color: lightcoral;
 	border-radius: 10px;
     width: 50%;
+}
+
+#title1
+{
+font-family: serif;
+font-size: 20px;
+}
+
+#hd1
+{
+font-family: serif;
+font-size: 20px;
+}
+
+body
+{
+	background-color:antiquewhite;
 }
